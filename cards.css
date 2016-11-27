@@ -1,0 +1,25 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-color: black;
+}
+.card {
+  border: 5px solid darkgray;
+  background-color: lightblue; 
+  width: 20%;
+  height: 45%;
+  padding: 2%;
+  text-align: center;
+  display: inline-block;
+  }
+
+#wrapper {
+  width: 90%;
+  height: 100%;
+  background-color: white;
+  margin: auto;
+  text-align: center; }
+
+#output {
+	background-color: gray;
+}
